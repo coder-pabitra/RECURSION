@@ -36,6 +36,7 @@ int main()
    }
 
   cout<<"i am pabitra";
+  cout<<"he is a hero";
 
     return 0;
 }
